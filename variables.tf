@@ -1,6 +1,6 @@
 variable "project_id" {
   description = "Project ID"
-  default     = "fourth-flag-326104" 
+  default     = "some-project-id-3261042" 
 }
 variable "cluster_name" {
   description = "The name for the GKE cluster"
