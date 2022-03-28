@@ -4,7 +4,7 @@ variable "project_id" {
 }
 variable "cluster_name" {
   description = "The name for the GKE cluster"
-  default     = "b2btest-cluster"
+  default     = "test-cluster"
 }
 variable "env_name" {
   description = "The environment for the GKE cluster"
